@@ -9,7 +9,7 @@ This project encapsulates the development of advanced machine learning models ta
 The primary objective of this project is to develop predictive models to aid banking institutions in targeting clients inclined to subscribe to term deposits. Through precise identification of potential subscribers, the institution can refine its marketing strategies, enhance campaign efficiency, and optimize resource allocation for improved outcomes.
 
 ## Dataset
-The <a href="https://github.com/karthi-1212/PRODIGY_DS_03/blob/main/bank-additional-full.csv">`dataset`</a> pertains to direct marketing campaigns (phone calls) conducted by a Portuguese banking institution. It encompasses a range of features including client demographics, past marketing interactions, and the campaign outcome (subscription to a term deposit)
+The <a href="https://github.com/karthi-1212/PRODIGY_DS_03/blob/main/modified_bank_data.csv">`dataset`</a> pertains to direct marketing campaigns (phone calls) conducted by a Portuguese banking institution. It encompasses a range of features including client demographics, past marketing interactions, and the campaign outcome (subscription to a term deposit)
 
 ## Results
 The project concluded with the creation of decision tree classifiers utilizing both the Gini impurity and entropy criteria. These models demonstrated excellent accuracy in forecasting term deposit subscriptions, with the Gini impurity criterion showcasing a slight edge over the entropy criterion in testing accuracy and recall for the positive class.

@@ -17,6 +17,9 @@ The project concluded with the creation of decision tree classifiers utilizing b
 ## Conclusion
 This project showcases the effectiveness of machine learning models in forecasting term deposit subscriptions during direct marketing campaigns. Through the utilization of predictive analytics, the banking institution can refine its marketing strategies and elevate customer engagement.
 
+## Instruction
+Please go through the <a href="https://github.com/karthi-1212/PRODIGY_DS_03/blob/main/main">`main`</a> folder if you having trouble with seeing the code in main.ipynb.
+
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
